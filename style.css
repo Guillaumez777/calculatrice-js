@@ -1,0 +1,7 @@
+td button{width:100%}
+
+table {
+    display: flex;
+    justify-content: center;
+    border: none;
+} 
